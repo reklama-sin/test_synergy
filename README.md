@@ -42,5 +42,3 @@
 
 ---
 > ⚠️ Внимание: материалы предназначены только для учебных целей.
-<meta name="yandex-verification" content="9be7e1133d3db3d1" />
-<meta name="yandex-verification" content="9be7e1133d3db3d1" />
